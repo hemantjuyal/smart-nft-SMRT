@@ -1,0 +1,23 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Animal",
+      "value": "Dinosaur"
+    },
+    {
+      "trait_type": "Animal Type",
+      "value": "Reptiles"
+    },
+    {
+      "trait_type": "Animal",
+      "value": "Shark"
+    },
+    {
+      "trait_type": "Animal Type",
+      "value": "Elasmobranch Fish"
+    }
+  ],
+  "description": "sharkie and dino",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbYYp8SR5UvuzsB4qg7QMkMFkbV1CAtUfG9iFtuE3t61h",
+  "name": "Double-Hungry-Sharkie-Dino"
+}
