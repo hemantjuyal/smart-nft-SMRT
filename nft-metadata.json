@@ -15,9 +15,13 @@
     {
       "trait_type": "Animal Type",
       "value": "Elasmobranch Fish"
+    },
+    {
+      "World": "Universe",
+      "value": "Earth"
     }
   ],
-  "description": "sharkie and dino",
-  "image": "https://gateway.pinata.cloud/ipfs/QmbYYp8SR5UvuzsB4qg7QMkMFkbV1CAtUfG9iFtuE3t61h",
-  "name": "Double-Hungry-Sharkie-Dino"
+  "description": "double hungry sharkie and dino",
+  "image": "ipfs://bafybeihunjzyc3s7hiir2dpm62srwizuhwcv6av6i4qmajv44t6kbzd2jq",
+  "name": "Hungry-Sharkie-Dino"
 }
