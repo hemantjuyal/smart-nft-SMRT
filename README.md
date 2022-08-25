@@ -19,8 +19,3 @@ Figure: NFT Smart Contract Digital Asset and Metadata Creation for NFT
 <br/>
 <br/>
 <br/>
-
-Refer to detailed post for each steps
-
-* [Creating an NFT Smart Contract and Deploying it on Blockchain](https://medium.com/@hemantjuyal/creating-an-nft-smart-contract-and-deploying-it-on-blockchain-d37a3e1d07be)
-* [Minting an NFT Smart Contract on Blockchain and Accessing the NFT](https://medium.com/@hemantjuyal/minting-an-nft-smart-contract-on-blockchain-and-accessing-the-nft-3f8c8eeccbbd)
